@@ -13,6 +13,18 @@ import javax.swing.JButton;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
+/**
+ * Sigue este tutorial "Lesson: Learning Swing with the NetBeans IDE" y entrega
+ * el resultado. Indica:
+ * 
+ * Significado de las siglas GUI Objetos swing utilizados en el proyecto Tipo de
+ * Layout utilizada
+ * 
+ * @author Antonio Luque Bravo
+ * @author &Oacute;scar Heredia Tartajo
+ * @version 2.0
+ *
+ */
 public class CelsiusConverterGUI extends JFrame {
 
 	private JPanel contentPane;
