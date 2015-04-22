@@ -17,7 +17,13 @@ import javax.swing.JLabel;
 
 import java.awt.event.FocusAdapter;
 import java.awt.event.FocusEvent;
-
+/**
+ * 
+ * @author Antonio Luque Bravo
+ * @author Óscar Heredia Tartajo
+ * @version 2.0
+ *
+ */
 public class Suma extends JDialog {
 
 	private final JPanel contentPanel = new JPanel();

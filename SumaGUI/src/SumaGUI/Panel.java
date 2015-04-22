@@ -9,6 +9,18 @@ import javax.swing.JMenuItem;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
+/**
+ * Number addition: Introducción a la interfaz gráfica de usuario (GUI) Para
+ * familiarizarte con los componentes del entorno gráfico, realiza el siguiente
+ * tutorial para principiantes. Enseña cómo crear una interfaz gráfica de
+ * usuario sencilla y añade una sencilla funcionalidad de back-end. En
+ * particular, se muestra cómo codificar el comportamiento de los botones y
+ * campos en un formulario Swing.
+ * 
+ * @author Antonio Luque Bravo
+ * @author Óscar Heredia Tartajo
+ * @version 2.0
+ */
 public class Panel {
 
 	private JFrame frame;
