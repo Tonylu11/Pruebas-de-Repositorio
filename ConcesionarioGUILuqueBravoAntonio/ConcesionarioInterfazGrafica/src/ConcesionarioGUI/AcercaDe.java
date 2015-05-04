@@ -14,7 +14,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
 /**
- * @author Antonio Luque Bravo
+ * @author Antonio Luque Bravo y amigos
  */
 @SuppressWarnings("serial")
 public class AcercaDe extends JDialog {
